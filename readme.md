@@ -6,7 +6,7 @@ Using this project Control any switch remotely from anywhere in the world, just 
 
 ## Hardware:-
 * NodeMCU 1.0 (ESP-12E Module)
-* STDP Relay Module
+* SPDT Relay Module
 * 3-5 V power supply module
 * 9V battery, Male & Female Socket, Jumper Wire.
 
