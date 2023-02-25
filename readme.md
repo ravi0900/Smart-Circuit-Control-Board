@@ -11,7 +11,7 @@ Using this project Control any switch remotely from anywhere in the world, just 
 * 9V battery, Male & Female Socket, Jumper Wire.
 
 ## Software
-* [PlateformIO](https://platformio.org)
+* [PlatformIO](https://platformio.org)
 * Blynkit (lib_deps)
 
 ## Snapshot
