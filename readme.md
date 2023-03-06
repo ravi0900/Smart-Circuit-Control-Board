@@ -14,6 +14,10 @@ Using this project Control any switch remotely from anywhere in the world, just 
 * [PlatformIO](https://platformio.org)
 * Blynkit (lib_deps)
 
+## Circuit Diagram
+![circuit](https://user-images.githubusercontent.com/65914575/223103807-f24a3b56-a180-4747-a822-2de1562b7d13.png)
+
+
 ## Snapshot
 
 https://user-images.githubusercontent.com/65914575/221377737-fa03a4d9-228f-4f75-9322-82c483ed103b.mp4
